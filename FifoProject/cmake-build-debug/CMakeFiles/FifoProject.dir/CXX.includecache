@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marek/CLionProjects/FifoProject/bidirectionalList.cpp
+bidirectionalList.h
+C:/Users/marek/CLionProjects/FifoProject/bidirectionalList.h
+cstdio
+-
+
+C:/Users/marek/CLionProjects/FifoProject/bidirectionalList.h
+
