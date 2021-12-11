@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marek/CLionProjects/xorList/XorList.cpp
+cstdio
+-
+XorList.h
+C:/Users/marek/CLionProjects/xorList/XorList.h
+
+C:/Users/marek/CLionProjects/xorList/XorList.h
+
