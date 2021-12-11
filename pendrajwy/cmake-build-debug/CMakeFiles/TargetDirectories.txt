@@ -1,0 +1,3 @@
+C:/Users/marek/CLionProjects/pendrajwy/cmake-build-debug/CMakeFiles/pendrajwy.dir
+C:/Users/marek/CLionProjects/pendrajwy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marek/CLionProjects/pendrajwy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
