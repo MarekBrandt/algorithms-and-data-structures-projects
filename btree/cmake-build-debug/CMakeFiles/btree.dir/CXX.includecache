@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marek/CLionProjects/btree/Btree.cpp
+Btree.h
+C:/Users/marek/CLionProjects/btree/Btree.h
+
+C:/Users/marek/CLionProjects/btree/Btree.h
+Node.h
+C:/Users/marek/CLionProjects/btree/Node.h
+iostream
+-
+
+C:/Users/marek/CLionProjects/btree/Node.cpp
+Node.h
+C:/Users/marek/CLionProjects/btree/Node.h
+iostream
+-
+
+C:/Users/marek/CLionProjects/btree/Node.h
+
+C:/Users/marek/CLionProjects/btree/main.cpp
+iostream
+-
+Btree.h
+C:/Users/marek/CLionProjects/btree/Btree.h
+stdlib.h
+-
+crtdbg.h
+-
+
